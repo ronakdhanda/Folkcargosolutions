@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Folkcargosolutions/static/css/main.7f13fe01.css",
+    "main.js": "/Folkcargosolutions/static/js/main.6e3dd494.js",
+    "static/media/card logo.png": "/Folkcargosolutions/static/media/card logo.1b9354250295d93b0283.png",
+    "static/media/8.jpg": "/Folkcargosolutions/static/media/8.f4fee8917af3a12b1cfe.jpg",
+    "static/media/6.jpg": "/Folkcargosolutions/static/media/6.1fcbfb47086675f2e2b1.jpg",
+    "static/media/5.jpg": "/Folkcargosolutions/static/media/5.abcb0e2df4d3584fb920.jpg",
+    "static/media/2.jpg": "/Folkcargosolutions/static/media/2.90b969f2589b1b98ac46.jpg",
+    "static/media/slick.svg": "/Folkcargosolutions/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Folkcargosolutions/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Folkcargosolutions/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Folkcargosolutions/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Folkcargosolutions/index.html",
+    "main.7f13fe01.css.map": "/Folkcargosolutions/static/css/main.7f13fe01.css.map",
+    "main.6e3dd494.js.map": "/Folkcargosolutions/static/js/main.6e3dd494.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f13fe01.css",
+    "static/js/main.6e3dd494.js"
+  ]
+}
