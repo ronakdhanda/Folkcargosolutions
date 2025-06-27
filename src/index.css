@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.btn {
+  @apply text-base font-normal rounded-lg p-3;
+}
+
+.btn--primary {
+  @apply bg-sky-500 text-white;
+}
+
+.btn--secondary {
+  @apply bg-slate-100 text-slate-900;
+}
