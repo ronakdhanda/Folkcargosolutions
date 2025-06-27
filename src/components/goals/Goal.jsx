@@ -42,7 +42,7 @@ const Goals = () => {
             Our Mission
           </h2>
           <p className="mt-4 text-lg md:text-xl text-neutral-700 dark:text-neutral-300 max-w-3xl mx-auto leading-relaxed">
-            To simplify global logistics by providing reliable, efficient, and transparent freight solutions—connecting businesses to the world through ocean, air, land, and customs expertise.
+            To simplify Customs Clearance, global logistics by providing reliable, efficient, and transparent freight solutions—connecting businesses to the world through ocean, air, land, and customs expertise.
           </p>
         </motion.div>
 

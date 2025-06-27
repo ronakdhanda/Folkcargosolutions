@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from "framer-motion"
 import { HERO_CONTENT } from '../../constrants'
-import profilePic from '../../assets/4.jpg'
+import profilePic from '../../assets/card logo.png'
 import { Typewriter } from 'react-simple-typewriter';
 
 const container = (delay) => ({
